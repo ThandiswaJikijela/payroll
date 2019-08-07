@@ -55,6 +55,15 @@ public class Race {
             return this;
         }
 
+        public Builder copy(Race race){
+            this.african = race.african;
+            this.white = race.white;
+            this.coloured = race.coloured;
+            this.indian = race.indian;
+
+            return this;
+        }
+
         public Race build(){return new Race(this);}
     }
 
