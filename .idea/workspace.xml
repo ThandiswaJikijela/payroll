@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f962d32c-64e7-412a-a769-3bd30fcf3493" name="Default Changelist" comment="initial project">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/factory/user/EmployeeGenderFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payroll.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/domain/user/EmployeeGender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/domain/user/EmployeeGender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/factory/user/EmployeeGenderFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/factory/user/EmployeeGenderFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeGenderRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeGenderRepositoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeGenderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeGenderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ac/za/cput/thandiswa/domain/user/EmployeeGender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ac/za/cput/thandiswa/domain/user/EmployeeGender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ac/za/cput/thandiswa/factory/user/EmployeeGenderFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ac/za/cput/thandiswa/factory/user/EmployeeGenderFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ac/za/cput/thandiswa/repository/Impl/user/EmployeeGenderRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ac/za/cput/thandiswa/repository/Impl/user/EmployeeGenderRepositoryImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ac/za/cput/thandiswa/service/Impl/user/EmployeeGenderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ac/za/cput/thandiswa/service/Impl/user/EmployeeGenderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/demography/RaceRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/demography/RaceRepositoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeGenderRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeGenderRepositoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeRepositoryImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeRepositoryImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/demography/GenderServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/demography/GenderServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/demography/RaceServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/demography/RaceServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeGenderServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeGenderServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeServiceImplTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,10 +24,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/factory/user/EmployeeFactoryTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/demography/RaceServiceImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="833">
+              <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+              <folding>
+                <element signature="e#1445#1446#0" expanded="true" />
+                <element signature="e#1507#1508#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeGenderServiceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+              <folding>
+                <element signature="e#1449#1450#0" expanded="true" />
+                <element signature="e#1511#1512#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/demography/GenderServiceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeServiceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+              <folding>
+                <element signature="e#1443#1444#0" expanded="true" />
+                <element signature="e#1505#1506#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,23 +114,25 @@
         <option value="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/service/user/EmployeeGenderService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/domain/demography/Gender.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/domain/demography/Race.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/demography/RaceRepositoryImplTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeRepositoryImplTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/factory/demography/GenderFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/factory/demography/RaceFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/factory/user/EmployeeFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/service/Impl/demography/GenderServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/service/Impl/demography/RaceServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/demography/GenderServiceImplTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeServiceImplTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/demography/RaceServiceImplTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/demography/GenderRepositoryImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/domain/user/EmployeeGender.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/factory/user/EmployeeGenderFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeGenderRepositoryImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeGenderServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/factory/user/EmployeeGenderFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeGenderRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/demography/RaceRepositoryImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeGenderRepositoryImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeRepositoryImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/demography/GenderServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/demography/RaceServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeGenderServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeServiceImplTest.java" />
       </list>
     </option>
   </component>
@@ -107,7 +144,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="671" />
+    <option name="x" value="-17" />
     <option name="width" value="705" />
     <option name="height" value="744" />
   </component>
@@ -155,25 +192,6 @@
               <item name="payroll" type="b2602c69:ProjectViewProjectNode" />
               <item name="payroll" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thandiswa" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="payroll" type="b2602c69:ProjectViewProjectNode" />
-              <item name="payroll" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thandiswa" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="payroll" type="b2602c69:ProjectViewProjectNode" />
-              <item name="payroll" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -198,7 +216,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="thandiswa" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="Impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="payroll" type="b2602c69:ProjectViewProjectNode" />
@@ -207,7 +225,17 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="thandiswa" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="Impl" type="462c0819:PsiDirectoryNode" />
+              <item name="demography" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payroll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payroll" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="thandiswa" type="462c0819:PsiDirectoryNode" />
+              <item name="Impl" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -223,17 +251,17 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Systems ADP/Assignment10-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../domainProject6" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="ac.za.cput.thandiswa.factory.user" />
-      <recent name="ac.za.cput.thandiswa.service.Impl.demography" />
       <recent name="ac.za.cput.thandiswa.service.Impl.user" />
       <recent name="ac.za.cput.thandiswa.repository.Impl.user" />
+      <recent name="ac.za.cput.thandiswa.factory.user" />
+      <recent name="ac.za.cput.thandiswa.service.Impl.demography" />
       <recent name="ac.za.cput.thandiswa.repository.Impl.demography" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -252,55 +280,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EmployeeGenderFactoryTest.getEmployeeGender">
-    <configuration name="EmployeeGenderFactoryTest.getEmployeeGender" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ac.za.cput.thandiswa in payroll">
+    <configuration name="EmployeeGenderRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="payroll" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.za.cput.thandiswa.factory.user.*" />
+          <option name="PATTERN" value="ac.za.cput.thandiswa.repository.Impl.user.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ac.za.cput.thandiswa.factory.user" />
-      <option name="MAIN_CLASS_NAME" value="ac.za.cput.thandiswa.factory.user.EmployeeGenderFactoryTest" />
-      <option name="METHOD_NAME" value="getEmployeeGender" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenderRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="payroll" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ac.za.cput.thandiswa.repository.Impl.demography.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ac.za.cput.thandiswa.repository.Impl.demography" />
-      <option name="MAIN_CLASS_NAME" value="ac.za.cput.thandiswa.repository.Impl.demography.GenderRepositoryImplTest" />
+      <option name="PACKAGE_NAME" value="ac.za.cput.thandiswa.repository.Impl.user" />
+      <option name="MAIN_CLASS_NAME" value="ac.za.cput.thandiswa.repository.Impl.user.EmployeeGenderRepositoryImplTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenderRepositoryImplTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EmployeeRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="payroll" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.za.cput.thandiswa.repository.Impl.demography.*" />
+          <option name="PATTERN" value="ac.za.cput.thandiswa.repository.Impl.user.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ac.za.cput.thandiswa.repository.Impl.demography" />
-      <option name="MAIN_CLASS_NAME" value="ac.za.cput.thandiswa.repository.Impl.demography.GenderRepositoryImplTest" />
-      <option name="METHOD_NAME" value="delete" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="ac.za.cput.thandiswa.repository.Impl.user" />
+      <option name="MAIN_CLASS_NAME" value="ac.za.cput.thandiswa.repository.Impl.user.EmployeeRepositoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenderRepositoryImplTest.getAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RaceRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="payroll" />
       <extension name="coverage">
         <pattern>
@@ -309,36 +320,48 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ac.za.cput.thandiswa.repository.Impl.demography" />
-      <option name="MAIN_CLASS_NAME" value="ac.za.cput.thandiswa.repository.Impl.demography.GenderRepositoryImplTest" />
-      <option name="METHOD_NAME" value="getAll" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="ac.za.cput.thandiswa.repository.Impl.demography.RaceRepositoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenderRepositoryImplTest.read" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RaceServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="payroll" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.za.cput.thandiswa.repository.Impl.demography.*" />
+          <option name="PATTERN" value="ac.za.cput.thandiswa.service.Impl.demography.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ac.za.cput.thandiswa.repository.Impl.demography" />
-      <option name="MAIN_CLASS_NAME" value="ac.za.cput.thandiswa.repository.Impl.demography.GenderRepositoryImplTest" />
-      <option name="METHOD_NAME" value="read" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="ac.za.cput.thandiswa.service.Impl.demography" />
+      <option name="MAIN_CLASS_NAME" value="ac.za.cput.thandiswa.service.Impl.demography.RaceServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ac.za.cput.thandiswa in payroll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="payroll" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ac.za.cput.thandiswa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ac.za.cput.thandiswa" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EmployeeGenderFactoryTest.getEmployeeGender" />
-        <item itemvalue="JUnit.GenderRepositoryImplTest" />
-        <item itemvalue="JUnit.GenderRepositoryImplTest.read" />
-        <item itemvalue="JUnit.GenderRepositoryImplTest.getAll" />
-        <item itemvalue="JUnit.GenderRepositoryImplTest.delete" />
+        <item itemvalue="JUnit.ac.za.cput.thandiswa in payroll" />
+        <item itemvalue="JUnit.RaceServiceImplTest" />
+        <item itemvalue="JUnit.EmployeeRepositoryImplTest" />
+        <item itemvalue="JUnit.EmployeeGenderRepositoryImplTest" />
+        <item itemvalue="JUnit.RaceRepositoryImplTest" />
       </list>
     </recent_temporary>
   </component>
@@ -354,7 +377,7 @@
       <updated>1564597454232</updated>
       <workItem from="1564597462998" duration="17927000" />
       <workItem from="1564860545878" duration="22951000" />
-      <workItem from="1565470467617" duration="5719000" />
+      <workItem from="1565470467617" duration="15467000" />
     </task>
     <task id="LOCAL-00001" summary="initial project">
       <created>1564862118110</created>
@@ -367,21 +390,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GenderRepositoryImplTest_update - 2019.08.05 at 00h 44m 57s.xml">
-      <configuration name="GenderRepositoryImplTest.update" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GenderRepositoryImplTest_update - 2019.08.05 at 00h 45m 12s.xml">
-      <configuration name="GenderRepositoryImplTest.update" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GenderRepositoryImplTest_delete - 2019.08.05 at 00h 45m 33s.xml">
-      <configuration name="GenderRepositoryImplTest.delete" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GenderRepositoryImplTest_delete - 2019.08.05 at 00h 45m 51s.xml">
-      <configuration name="GenderRepositoryImplTest.delete" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GenderRepositoryImplTest_getAll - 2019.08.05 at 00h 46m 01s.xml">
-      <configuration name="GenderRepositoryImplTest.getAll" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GenderRepositoryImplTest_getAll - 2019.08.05 at 00h 46m 22s.xml">
       <configuration name="GenderRepositoryImplTest.getAll" configurationId="JUnit" />
     </history-entry>
@@ -397,9 +405,24 @@
     <history-entry file="EmployeeGenderFactoryTest_getEmployeeGender - 2019.08.11 at 00h 23m 36s.xml">
       <configuration name="EmployeeGenderFactoryTest.getEmployeeGender" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RaceRepositoryImplTest - 2019.08.11 at 09h 27m 16s.xml">
+      <configuration name="RaceRepositoryImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RaceRepositoryImplTest_read - 2019.08.11 at 09h 28m 39s.xml">
+      <configuration name="RaceRepositoryImplTest.read" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RaceRepositoryImplTest - 2019.08.11 at 09h 28m 49s.xml">
+      <configuration name="RaceRepositoryImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeGenderRepositoryImplTest - 2019.08.11 at 11h 36m 47s.xml">
+      <configuration name="EmployeeGenderRepositoryImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EmployeeRepositoryImplTest - 2019.08.11 at 11h 37m 06s.xml">
+      <configuration name="EmployeeRepositoryImplTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46597000" />
+    <option name="totallyTimeSpent" value="56345000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -414,7 +437,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20801815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -424,7 +447,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -434,7 +457,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -557,13 +580,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/demography/RaceRepositoryImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/repository/Impl/demography/RaceRepositoryImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -574,45 +590,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeRepositoryImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/factory/demography/GenderFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/factory/demography/GenderFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/factory/demography/RaceFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/factory/demography/RaceFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/demography/GenderServiceImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -623,20 +604,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeServiceImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/demography/RaceServiceImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -659,13 +626,6 @@
             <element signature="e#587#588#0" expanded="true" />
             <element signature="e#614#615#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/demography/GenderRepositoryImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -705,16 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/factory/user/EmployeeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/repository/user/EmployeeGenderRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -747,18 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeGenderRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/service/user/EmployeeGenderService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -779,26 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeGenderServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#1139#1140#0" expanded="true" />
-            <element signature="e#1180#1181#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/factory/user/EmployeeGenderFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -813,10 +731,143 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeGenderRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeGenderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/factory/demography/RaceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/factory/demography/RaceFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/factory/demography/GenderFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ac/za/cput/thandiswa/factory/user/EmployeeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/demography/GenderRepositoryImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="63" column="51" lean-forward="true" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/factory/user/EmployeeFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeRepositoryImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+          <folding>
+            <element signature="e#1100#1101#0" expanded="true" />
+            <element signature="e#1156#1157#0" expanded="true" />
+            <element signature="e#1426#1427#0" expanded="true" />
+            <element signature="e#1482#1483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/user/EmployeeGenderRepositoryImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+          <folding>
+            <element signature="e#1106#1107#0" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
+            <element signature="e#1432#1433#0" expanded="true" />
+            <element signature="e#1488#1489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/repository/Impl/demography/RaceRepositoryImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/demography/GenderServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeGenderServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+          <folding>
+            <element signature="e#1449#1450#0" expanded="true" />
+            <element signature="e#1511#1512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/user/EmployeeServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+          <folding>
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#1505#1506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ac/za/cput/thandiswa/service/Impl/demography/RaceServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+          <folding>
+            <element signature="e#1445#1446#0" expanded="true" />
+            <element signature="e#1507#1508#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
