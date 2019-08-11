@@ -1,6 +1,5 @@
 package ac.za.cput.thandiswa.domain.user;
 
-import java.util.Objects;
 
 public class EmployeeGender {
     private String genderID;
